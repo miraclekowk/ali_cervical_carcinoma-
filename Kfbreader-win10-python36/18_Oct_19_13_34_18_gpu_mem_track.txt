@@ -1,0 +1,42 @@
+GPU Memory Track | 18-Oct-19-13:34:18 | Total Used Memory:376.2  Mb
+
+
+At __main__ <module>: line 40                        Total Used Memory:376.2  Mb
+
++ | 2 * Size:(512, 2048, 1, 1)    | Memory: 8.3886 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(8,)                 | Memory: 3.2e-0 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(2, 1024)            | Memory: 0.0081 M | <class 'torch.nn.parameter.Parameter'>
++ | 2 * Size:(1024,)              | Memory: 0.0081 M | <class 'torch.nn.parameter.Parameter'>
++ | 3 * Size:(512, 512, 3, 3)     | Memory: 28.311 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(1024, 1024)         | Memory: 4.1943 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(12,)                | Memory: 4.8e-0 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(256, 2048, 1, 1)    | Memory: 2.0971 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(512, 1024, 1, 1)    | Memory: 2.0971 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(1024, 512, 1, 1)    | Memory: 2.0971 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(1024, 12544)        | Memory: 51.380 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(2048, 1024, 1, 1)   | Memory: 8.3886 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(2,)                 | Memory: 8e-06 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(128, 256, 1, 1)     | Memory: 0.1310 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(3, 256, 1, 1)       | Memory: 0.0030 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(64, 3, 7, 7)        | Memory: 0.0376 M | <class 'torch.nn.parameter.Parameter'>
++ | 3 * Size:(64, 64, 3, 3)       | Memory: 0.4423 M | <class 'torch.nn.parameter.Parameter'>
++ | 3 * Size:(2048, 512, 1, 1)    | Memory: 12.582 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(64, 64, 1, 1)       | Memory: 0.0163 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(12, 256, 1, 1)      | Memory: 0.0122 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(3,)                 | Memory: 1.2e-0 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(8, 1024)            | Memory: 0.0327 M | <class 'torch.nn.parameter.Parameter'>
++ | 4 * Size:(512, 128, 1, 1)     | Memory: 1.0485 M | <class 'torch.nn.parameter.Parameter'>
++ | 2 * Size:(256, 512, 1, 1)     | Memory: 1.0485 M | <class 'torch.nn.parameter.Parameter'>
++ | 3 * Size:(128, 512, 1, 1)     | Memory: 0.7864 M | <class 'torch.nn.parameter.Parameter'>
++ | 4 * Size:(128, 128, 3, 3)     | Memory: 2.3592 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(256, 256, 1, 1)     | Memory: 0.2621 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(512, 256, 1, 1)     | Memory: 0.5242 M | <class 'torch.nn.parameter.Parameter'>
++ | 9 * Size:(256,)               | Memory: 0.0092 M | <class 'torch.nn.parameter.Parameter'>
++ | 6 * Size:(256, 1024, 1, 1)    | Memory: 6.2914 M | <class 'torch.nn.parameter.Parameter'>
++ | 11 * Size:(256, 256, 3, 3)     | Memory: 25.952 M | <class 'torch.nn.parameter.Parameter'>
++ | 6 * Size:(1024, 256, 1, 1)    | Memory: 6.2914 M | <class 'torch.nn.parameter.Parameter'>
++ | 4 * Size:(256, 64, 1, 1)      | Memory: 0.2621 M | <class 'torch.nn.parameter.Parameter'>
++ | 2 * Size:(64, 256, 1, 1)      | Memory: 0.1310 M | <class 'torch.nn.parameter.Parameter'>
+
+At __main__ <module>: line 54                        Total Used Memory:844.7  Mb
+
